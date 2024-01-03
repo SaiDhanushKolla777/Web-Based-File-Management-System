@@ -2,7 +2,6 @@
 The File Management System is an intermediate web application combining Python, HTML/CSS, JavaScript, and Perl for easy file uploading, downloading, and management. It offers a user-friendly, minimalistic interface for efficient network file handling.
 
 
-Certainly! Here's the revised project description without the title:
 
 ### Project Description
 
