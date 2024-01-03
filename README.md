@@ -6,7 +6,7 @@ The File Management System is an intermediate web application combining Python, 
 ### Project Description
 
 **Overview:** 
-FileFlow is a streamlined, user-friendly web application designed for efficient file uploading, downloading, and management. It offers a simple yet effective solution for managing files over a network, catering to users who seek a minimalistic and intuitive approach to file handling via a web interface.
+This user-friendly web application designed for efficient file uploading, downloading, and management. It offers a simple yet effective solution for managing files over a network, catering to users who seek a minimalistic and intuitive approach to file handling via a web interface.
 
 **Key Features:**
 - **File Uploads and Downloads:** Enables users to upload files to the server and download them from any location.
